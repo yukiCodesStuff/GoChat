@@ -1,6 +1,6 @@
 # GoChat Golang Chat Appplication (Work in Progress)
 
-This is a basic chat application using the Golang programming language to learn about networking and distributed systems
+This is a basic chat application using the Golang programming language to learn about networking and distributed systems.
 
 ### Updates
 
@@ -17,3 +17,4 @@ It's alive! We have successfully connected to the server and sent a message!
 ### Resources
 
 [How To Build A Chat And Data Feed With WebSockets In Golang?](https://www.youtube.com/watch?v=JuUAEYLkGbM)
+[Mastering WebSockets with Go](https://www.youtube.com/watch?v=pKpKv9MKN-E)
