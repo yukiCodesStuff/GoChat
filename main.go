@@ -37,9 +37,19 @@ func (s *Server) readLoop(ws *websocket.Conn) {
 			continue
 		}
 		msg := buf[:n]
-		fmt.Println(string(msg))
 
-		ws.Write([]byte("thank you for the message"))
+		// Let everybody know there's a new message
+		s.broadcast(msg)
+	}
+}
+
+func (s *Server) broadcast(b []byte) {
+	for ws := range s.conns {
+		go func(ws *websocket.Conn) {
+			if _, err := ws.Write(b); err != nil {
+				fmt.Println("write error:", err)
+			}
+		}(ws)
 	}
 }
 
