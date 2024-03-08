@@ -18,5 +18,7 @@ It's alive! We have successfully connected to the server and sent a message!
 
 - [How To Build A Chat And Data Feed With WebSockets In Golang?](https://www.youtube.com/watch?v=JuUAEYLkGbM)
 - [Mastering WebSockets with Go](https://www.youtube.com/watch?v=pKpKv9MKN-E)
+  - [Link to My Learning Repo Here!](https://github.com/yukiCodesStuff/MasteringWebsockets)
 - [Upgrading a WebSocket](https://developer.mozilla.org/en-US/docs/Web/HTTP/Protocol_upgrade_mechanism)
 - [WebSocket Crash Course](https://www.youtube.com/watch?v=2Nt-ZrNP22A)
+- [Defer Golang](https://go.dev/tour/flowcontrol/12)
