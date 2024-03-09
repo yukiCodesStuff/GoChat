@@ -14,6 +14,14 @@ Estalished global chat! Can now talk to each other locally across different tabs
 
 It's alive! We have successfully connected to the server and sent a message!
 
+### Learning
+
+This project is very much a learning experience, if you care to learn a little bit about what goes on under the hood, read on!
+
+#### HTTP 1.0
+
+
+
 ### Resources
 
 - [How To Build A Chat And Data Feed With WebSockets In Golang?](https://www.youtube.com/watch?v=JuUAEYLkGbM)
@@ -22,3 +30,4 @@ It's alive! We have successfully connected to the server and sent a message!
 - [Upgrading a WebSocket](https://developer.mozilla.org/en-US/docs/Web/HTTP/Protocol_upgrade_mechanism)
 - [WebSocket Crash Course](https://www.youtube.com/watch?v=2Nt-ZrNP22A)
 - [Defer Golang](https://go.dev/tour/flowcontrol/12)
+- [TCP - 12 Simple Ideas to explain the TCP](https://www.youtube.com/watch?v=JFch3ctY6nE)
