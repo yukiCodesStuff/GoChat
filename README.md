@@ -31,3 +31,4 @@ This project is very much a learning experience, if you care to learn a little b
 - [WebSocket Crash Course](https://www.youtube.com/watch?v=2Nt-ZrNP22A)
 - [Defer Golang](https://go.dev/tour/flowcontrol/12)
 - [TCP - 12 Simple Ideas to explain the TCP](https://www.youtube.com/watch?v=JFch3ctY6nE)
+- [Learn GO Fast](https://www.youtube.com/watch?v=8uiZC0l4Ajw)
